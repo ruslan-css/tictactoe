@@ -1,0 +1,110 @@
+#game {
+  width: 150px;
+  height: 150px;
+  background: skyblue;
+margin: 150px auto;
+}
+
+.blok{
+  width: 50px;
+  height: 50px;
+  float: left;
+  box-sizing: border-box;
+  border: 1px solid white;
+  line-height: 50px;
+  text-align: center;
+  font-size: 40px
+  text-transform: uppercase;
+}
+
+.reset {
+    display: block;
+    margin: 20px auto;
+    border: 1px solid #357ebd;
+    border-radius: 5px;
+    background-color: #428bca;
+    font-size: 25px;
+    color: #fff;
+    padding: 5px 10px;
+
+}
+
+
+
+
+/*body {
+    width: 100%;
+    height: 100%;
+
+}
+
+.container {
+    margin: 20px auto;
+    width: 600px;
+
+}
+
+.result {
+    min-height: 100px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 44px;
+    font-weight: bold;
+}
+
+.game-title {
+    display: block;
+    margin-bottom: 30px;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.game {
+    display: block;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+
+  }
+
+.match {
+    float: left;
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+    border: 2px solid #eee;
+    text-align: center;
+    line-height: 100px;
+    font-size: 66px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all linear .3s;
+}
+
+
+.match.x {
+    background-color: #2DC487;
+}
+
+.match.o {
+    background-color: #FFAC3A;
+}
+
+.reset {
+    display: block;
+    margin: 20px auto;
+    border: 1px solid #357ebd;
+    border-radius: 5px;
+    background-color: #428bca;
+    font-size: 35px;
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: all linear .3s;
+}
+
+.reset:hover {
+    background-color: #357ebd;
+}
+*/
